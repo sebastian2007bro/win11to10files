@@ -1,0 +1,3 @@
+; Bring back Windows 10 taskbar
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell\Update\Packages]
+"UndockingDisabled"=dword:00000001
